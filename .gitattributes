@@ -1,0 +1,3 @@
+*.lpi -crlf -merge
+*.lpk -crlf -merge
+*.res -crlf -merge
